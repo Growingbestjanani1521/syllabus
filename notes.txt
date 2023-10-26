@@ -1,0 +1,43 @@
+syllabus
+
+Javascript
+
+Day 1:
+
+Introduction to web Browser Wars DOM tree CSSOM tree,
+Browser internals - HTML parser,
+CSS parser,  JavaScript V8 engine, 
+internals IP – MAC address – Ports & Evolution of HTTP,
+HTTP Methods
+How the Server looks at the URL
+Request & Response cycle
+
+day 1 task
+
+Write a blog on Difference between HTTP1.1 vs HTTP2
+Write a blog about objects and its internal representation in Javascript
+codekata practice
+Read about IP address, port, HTTP methods, MAC address	
+
+day 2
+
+HTML Browser view - Debugger, Inspect,
+Browser js vs Node js
+Data types
+Copy by value and Copy by reference
+Window & document object
+
+day 2 task 
+
+write a blog difference between document and windows objects
+codekata practice
+
+
+day 3
+Introduction to Array
+Array and JSON iteration
+XMLHttpRequest
+Hoisting & scope
+
+day 3 task 
+
