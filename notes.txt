@@ -41,3 +41,21 @@ Hoisting & scope
 
 day 3 task 
 
+
+day 4
+
+Introduction to functions
+function & return keyword
+types of function
+
+
+day 5
+
+var vs let vs const
+block scoping
+spread & rest operators
+array & object destructure
+Object property shorthand
+Template literals
+Arrow functions
+
