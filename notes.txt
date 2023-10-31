@@ -59,3 +59,10 @@ Object property shorthand
 Template literals
 Arrow functions
 
+day 6
+
+Understanding the basics of prototype
+What is classes in js?
+constructor
+need of setters/getters
+use of this key word in classes
